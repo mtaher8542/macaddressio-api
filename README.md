@@ -10,7 +10,7 @@ Run python macaddressapi.py with any MAC address to find the company name.
 
 **Testing**
 
-Make sure you pass at least one MAC address.
+Make sure you pass at least one MAC address. 
 
 Run the command: 
 *python macaddressapi.py 4C:74:BF:69:E1:E8*
